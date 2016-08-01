@@ -1,6 +1,6 @@
 'use strict';
 
-function cheers() {
-  console.log('javascript');
+function cheers(x, y) {
+  console.log(y + 'javascript' + x);
 }
-cheers()
+cheers(1, 2)
