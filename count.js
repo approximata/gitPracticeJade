@@ -1,5 +1,5 @@
 'use strict';
 
-var count = function(){
-  console.log('29');
+var count = function(x){
+  console.log(x);
 }
