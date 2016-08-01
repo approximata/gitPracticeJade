@@ -1,6 +1,6 @@
 'use strict';
 
-function cheers(x, y) {
-  console.log(y + 'javascript' + x);
+function cheers() {
+  console.log('Counting the countless parameter');
 }
-cheers(1, 2)
+cheers()
