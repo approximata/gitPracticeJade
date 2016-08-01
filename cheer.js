@@ -1,5 +1,5 @@
 'use strict';
 
 function cheers(x) {
-  console.log('cheers' + x);
+  console.log(x);
 }
